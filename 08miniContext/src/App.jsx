@@ -20,4 +20,7 @@ function App() {
   )
 }
 
+//In this example, the h1, 'login and profile' component is a child of UserContextProvider
+
+
 export default App
